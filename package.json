@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node 15_routing.mjs",
-    "dev": "nodemon 15_routing.mjs"
+    "start": "node Express.js",
+    "dev": "nodemon Express.js"
   },
   "keywords": [],
   "author": "",
